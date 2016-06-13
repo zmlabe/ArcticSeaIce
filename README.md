@@ -1,7 +1,7 @@
 # SeaIceExtent
 Repository contains scripts for plotting routines of Arctic sea ice parameters.
 
-Under construction...
+######Under construction...
 
 ## Contact
 Zachary Labe - [Research Website](http://sites.uci.edu/zlabe/) - [@ZLabe](https://twitter.com/ZLabe)
