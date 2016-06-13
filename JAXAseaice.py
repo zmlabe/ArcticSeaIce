@@ -1,6 +1,5 @@
 """
 Plots Arctic sea ice extent from June 2002-present using JAXA metadata
-?N
 Website   : https://ads.nipr.ac.jp/vishop/vishop-extent.html
 Author    : Zachary M. Labe
 Date      : 2 May 2016
