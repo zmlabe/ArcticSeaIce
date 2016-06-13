@@ -1,4 +1,6 @@
 # SeaIceExtent
+Repository contains scripts for plotting routines of Arctic sea ice parameters.
+
 Under construction...
 
 ## Contact
