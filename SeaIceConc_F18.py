@@ -6,6 +6,7 @@ Author : Zachary Labe
 Date : 30 May 2016
 """
 
+### Import modules
 from netCDF4 import Dataset
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
