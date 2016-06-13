@@ -75,7 +75,7 @@ ax = plt.subplot(111)
 
 ### x-labels
 xlabels = [r'Jan',r'Feb',r'Mar',r'Apr',r'May',r'June',r'July',
-          r'Aug',r'Sept',r'Oct',r'Nov',r'Dec']
+          r'Aug',r'Sept',r'Oct',r'Nov',r'Dec',r'Jan']
 plt.xticks(np.arange(0,361,30),xlabels,rotation=0)
 
 ### y-labels
