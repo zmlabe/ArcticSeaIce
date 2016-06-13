@@ -189,6 +189,6 @@ plt.ylabel(r'$\bf{\times 10^{6}\ km^2}$',fontsize=8)
 plt.xlabel(r'\textbf{day of year}',fontsize=8)
 
 ### Save figure 
-plt.savefig(directory + 'JAXAseaice_presentation.png',dpi=500)              
+plt.savefig(directory + 'JAXAseaice_%s.png' % currenttime,dpi=500)              
 
 print 'Completed script!'    
