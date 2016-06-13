@@ -53,6 +53,7 @@ currentanom = currentice - (mean1980[lastday]/1e6)
 weekchange = currentice - currentyear[lastday-7]
 daychange = currentice - currentyear[lastday-1]
 
+print 'JAXA Arctic Sea Ice Extent'
 print '\nCurrent Date =', now.strftime("%Y-%m-%d %H:%M"), '\n'
 print 'Current SIE = %s km^2' % (currentice*1e6)
 print 'Current Anomaly = %s km^2 \n' % (currentanom*1e6)
