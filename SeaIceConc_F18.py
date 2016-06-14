@@ -3,10 +3,10 @@ Plots SSMIS (F18) Sea Ice Concentration Data
  
 Source : http://osisaf.met.no/p/ice/
 Author : Zachary Labe
-Date : 30 May 2016
+Date : 13 June 2016
 """
 
-### Import modules
+u### Import modules
 from netCDF4 import Dataset
 import matplotlib.pyplot as plt
 from mpl_toolkits.basemap import Basemap
