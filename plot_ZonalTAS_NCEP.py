@@ -12,8 +12,8 @@ import matplotlib.pyplot as plt
 import matplotlib.colors as c
 
 ### Directory and time
-directoryfigure = '...'
-directorydata = '...'
+directoryfigure = '...'          # enter directory
+directorydata = '...'            # enter directory
 
 ### Insert month
 month = 'June'
