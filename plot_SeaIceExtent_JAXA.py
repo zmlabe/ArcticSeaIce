@@ -20,7 +20,7 @@ currentyr = str(now.year)
 currenttime = currentmn + '_' + currentdy + '_' + currentyr
 
 ### Load url
-url = 'https://ads.nipr.ac.jp/vishop/data/graph/plot_extent_n_v2.csv'
+url = 'https://ads.nipr.ac.jp/vishop.ver1/data/graph/plot_extent_n_v2.csv'
 
 ### Read file
 raw_data = urllib2.urlopen(url)

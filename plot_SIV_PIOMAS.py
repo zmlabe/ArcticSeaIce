@@ -132,7 +132,7 @@ plt.ylim([int(np.nanmin(volume)-1),int(np.nanmax(volume)+1)])
 ### Add text
 plt.subplots_adjust(bottom=0.15)  
 
-plt.text(0.5,4.7,r'\textbf{DATA:} PIOMAS (Zhang and Rothrock, 2003)',
+plt.text(0.5,4.7,r'\textbf{DATA:} PIOMAS [Zhang and Rothrock, 2003]',
          fontsize=7,rotation='horizontal',ha='left',color='w')
 plt.text(0.5,3.4,r'\textbf{CSV:} http://psc.apl.washington.edu/zhang/IDAO/',
          fontsize=7,rotation='horizontal',ha='left',color='w')
