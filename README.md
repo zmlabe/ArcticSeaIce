@@ -8,7 +8,7 @@ Zachary Labe - [Research Website](http://sites.uci.edu/zlabe/) - [@ZLabe](https:
 
 ## Description
 
-'plot_MinYears_JAXA.py' --
+`plot_MinYears_JAXA.py` --
 Bar graph of minimum Arctic sea ice extents over the 2002-present period. Comparison looks at the current sea ice extent versus the minimum years. Data is available by the Japan Aerospace Exploration Agency (JAXA) and through the [Arctic Data archive System (NiPR)](Japan Aerospace Exploration Agency).
 
 `plot_SeaIceExtent_JAXA.py` --
