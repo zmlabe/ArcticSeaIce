@@ -1,5 +1,5 @@
 # ArcticSeaIce
-Repository contains scripts for plotting routines of Arctic sea ice and atmospheric parameters ```[Python]```.
+Repository contains scripts for plotting routines of Arctic sea ice and atmospheric parameters ```[Python 2.7]```.
 
 ######Under construction...
 
