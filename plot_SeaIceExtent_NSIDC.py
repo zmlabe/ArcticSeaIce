@@ -82,10 +82,6 @@ print 'Current anomaly = %s km^2 \n' % currentanom
 ###########################################################################
 ###########################################################################
 ###########################################################################
-### Create plot
-fig = plt.figure()
-ax = plt.subplot(111)
-
 ### Define parameters
 plt.rc('text',usetex=True)
 plt.rc('font',**{'family':'sans-serif','sans-serif':['Avant Garde']}) 
@@ -95,6 +91,10 @@ plt.rc('xtick',color='white')
 plt.rc('ytick',color='white')
 plt.rc('axes',labelcolor='white')
 plt.rc('axes',facecolor='black')
+
+### Create plot
+fig = plt.figure()
+ax = plt.subplot(111)
 
 ### Set x/y ticks and labels
 xlabels = [r'Jan',r'Feb',r'Mar',r'Apr',r'May',r'Jun',r'Jul',
