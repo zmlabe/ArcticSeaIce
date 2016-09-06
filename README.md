@@ -9,10 +9,13 @@ Zachary Labe - [Research Website](http://sites.uci.edu/zlabe/) - [@ZLabe](https:
 ## Description
 
 `plot_MinYears_JAXA.py` --
-Bar graph of minimum Arctic sea ice extents over the 2002-present period. Comparison looks at the current sea ice extent versus the minimum years. Data is available by the Japan Aerospace Exploration Agency (JAXA) and through the [Arctic Data archive System (NiPR)](Japan Aerospace Exploration Agency).
+Bar graph of minimum Arctic sea ice extents over the 2002-present period. Comparison looks at the current sea ice extent versus the minimum years. Data is available by the Japan Aerospace Exploration Agency (JAXA) and through the [Arctic Data archive System (NiPR)](https://ads.nipr.ac.jp/vishop.ver1/vishop-extent.html).
 
 `plot_SeaIceExtent_JAXA.py` --
-Daily Arctic sea extent over the 2002-2016 (to-date) is available by the Japan Aerospace Exploration Agency (JAXA) and through the [Arctic Data archive System (NiPR)](Japan Aerospace Exploration Agency).
+Daily Arctic sea extent over the 2002-2016 (to-date) is available by the Japan Aerospace Exploration Agency (JAXA) and through the [Arctic Data archive System (NiPR)](https://ads.nipr.ac.jp/vishop.ver1/vishop-extent.html).
+
+`plot_SeaIceExtent_NSIDC.py` --
+Daily Arctic sea ice extent is calculated and plotted for the current year (to-date) through the [National Snow & Ice Data Center](https://nsidc.org/arcticseaicenews/) SSM/I-SSMIS F-18 satellite. Climatology (1981-2010) is plotted in addition to two standard deviations from the mean.
 
 `plot_SeaIceConc_SSMIS.py` --
 Daily Arctic sea concentration data is available through the [Ocean and Sea Ice SAF](http://osisaf.met.no/p/ice/) F-18 satellite. Data is provisional from the DMSP F-18 satellite as a result of F-17 satellite errors [(for more information)](https://nsidc.org/arcticseaicenews/2016/05/daily-sea-ice-extent-updates-resume-with-provisional-data/).
