@@ -1,7 +1,7 @@
 # ArcticSeaIce
 Repository contains scripts for plotting routines of Arctic sea ice and atmospheric parameters ```[Python 2.7]```.
 
-######Under construction...
+###### Under construction...
 
 ## Contact
 Zachary Labe - [Research Website](http://sites.uci.edu/zlabe/) - [@ZLabe](https://twitter.com/ZLabe)
